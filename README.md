@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <a href="//github.com/ismailSadouki/"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/github.png" width="30px" style="width: 30px;margin-right: 10px;" /></a>
 <a href="//twitter.com/sadouki_ismail"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" width="30px" /></a>
 <a href="//instagram.com/ismail_sadouki"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" width="30px" /></a>
-<a href="mailto:ismai.sadouki@protonmail.com"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/facebook.svg" width="30px" /></a>
+<a href="//www.facebook.com/profile.php?id=100034663145146"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/facebook.svg" width="30px" /></a>
 <a href="mailto:ismai.sadouki@protonmail.com"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" width="30px" /></a>
 
 <h3>things i code with</h3>
