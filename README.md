@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 <h1>Hey there! I'm Ismail :wave:</h1>
 
-- 🔭 I'm currently working on [GlitchyPastePen](https://github.com/khalby786/GlitchyPastePen.v2) and other [side](https://github.com/khalby786/MarkMe) [projects](https://github.com/khalby786/smallurll)!
+ - 💡 I like to explore new technologies and develop software solutions and quick hacks.
  - 🌱 I'm currently learning JavaScript, Algorithms and English.
  - 👯 I'm looking to collaborate on full stack web apps!
- - 🤔 I'm looking for help with Typescript and React
+ - 🤔 I'm looking for help with JavaScript and VueJs
  - 💬 Ask me about PHP - Laravel
- - 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
+ - 😊 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
  - 📫 You can contact me in: [email](ismail.sadouki@protonmail.com) or [social](#social), I'll try to respond as soon as I can
  - 😄 Pronouns: he/him
  <!--
@@ -33,27 +33,22 @@ Here are some ideas to get you started:
 
 <h3 id="social">contact me</h3>
 
-<a href="//github.com/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
+<a href="//github.com/ismailSadouki/"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
 <a href="//glitch.com/@khalby786"><img src="https://khaleelgibran.com/GlitchIcon_Solid_Black.png" width="30px" /></a>
-<a href="//twitter.com/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/twitter-alt.svg" width="30px" /></a>
-<a href="//instagram.com/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/instagram.svg" width="30px" /></a>
-<a href="//twitch.tv/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/twitch.svg" width="30px" /></a>
-<a href="https://www.youtube.com/channel/UCrpLyU8D2wajlTae6qZx_eQ"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/youtube.svg" width="30px" /></a>
-<a href="//codepen.io/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/codepen.svg" width="30px" /></a>
-<a href="//reddit.com/u/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/reddit.svg" width="30px" /></a>
-<a href="mailto:hello@khaleelgibran.com"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" width="30px" /></a>
+<a href="//twitter.com/sadouki_ismail"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/twitter-alt.svg" width="30px" /></a>
+<a href="//instagram.com/ismail_sadouki"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/instagram.svg" width="30px" /></a>
+<a href="//twitch.tv/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/facebook.svg" width="30px" /></a>
+<a href="mailto:ismai.sadouki@protonmail.com"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" width="30px" /></a>
 
 <h3>things i code with</h3>
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
-
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
-
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>&nbsp;
 
 
@@ -62,7 +57,6 @@ Here are some ideas to get you started:
 <br>
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="30px"></span>
 
 <h3>open source projects</h3>
 
