@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  - 🤔 I'm looking for help with JavaScript and VueJs
  - 💬 Ask me about PHP - Laravel
  - 😊 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
- - 📫 You can contact me in: [email](ismail.sadouki@protonmail.com) or [social](#social), I'll try to respond as soon as I can
+ - 📫 You can contact me in: [email](mailto:ismai.sadouki@protonmail.com) or [social](#social), I'll try to respond as soon as I can
  - 😄 Pronouns: he/him
  <!--
  - ⚡ Fun fact: I have a [tumblr blog](https://art.khaleelgibran.com) filled with my artwork!
