@@ -1,6 +1,7 @@
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+
 <!--
 ### Hi there 👋
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 
 **ismailSadouki/ismailSadouki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
