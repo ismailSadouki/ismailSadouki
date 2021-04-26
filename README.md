@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 <h3 id="social">contact me</h3>
 
 <a href="//github.com/ismailSadouki/"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
-<a href="//glitch.com/@khalby786"><img src="https://khaleelgibran.com/GlitchIcon_Solid_Black.png" width="30px" /></a>
 <a href="//twitter.com/sadouki_ismail"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/twitter-alt.svg" width="30px" /></a>
 <a href="//instagram.com/ismail_sadouki"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/instagram.svg" width="30px" /></a>
 <a href="//twitch.tv/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/facebook.svg" width="30px" /></a>
@@ -57,70 +56,14 @@ Here are some ideas to get you started:
 <br>
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
 
-<h3>open source projects</h3>
+<h3>Favorite sites</h3>
 
-
-| Project  🚧 | Stars :star: | Forks 🍴 | Issues ❌ | Pull Requests 🌿 |
-|---------|-------|-------|--------|---------------|
-| Jsoning | ![GitHub stars](https://img.shields.io/github/stars/khalby786/jsoning?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/jsoning?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/jsoning?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/jsoning?style=for-the-badge) |
-| MarkMe | ![GitHub stars](https://img.shields.io/github/stars/khalby786/markme?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/markme?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/markme?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/markme?style=for-the-badge) |
-| GlitchyPastePen | ![GitHub stars](https://img.shields.io/github/stars/khalby786/GlitchyPastePen?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/GlitchyPastePen?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/GlitchyPastePen?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/GlitchyPastePen?style=for-the-badge) |
-| REHeader | ![GitHub stars](https://img.shields.io/github/stars/khalby786/REHeader?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/jsoning?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/REHeader?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/REHeader?style=for-the-badge) |
-| personal-website | ![GitHub stars](https://img.shields.io/github/stars/khalby786/personal-website?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/personal-website?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/personal-website?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/personal-website?style=for-the-badge) |
-| vue-utterances | ![GitHub stars](https://img.shields.io/github/stars/khalby786/vue-utterances?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/vue-utterances?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/vue-utterances?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/vue-utterances?style=for-the-badge) |
-
-<h3>my dev.to posts</h3>
-
-<!-- BLOG-POST-LIST:START -->
-- [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
-- [Create a custom 404 page for your Vue 2 app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
-- [REHeader - GitHub Profile README Header Image Generator](https://dev.to/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
-- [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://dev.to/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
-- [Creating a Markdown Blog with EJS & Express](https://dev.to/khalby786/creating-a-markdown-blog-with-ejs-express-j40)
-<!-- BLOG-POST-LIST:END -->
-
-<h3>my github activity</h3>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/khalby786/jsoning/pull/13) in [khalby786/jsoning](https://github.com/khalby786/jsoning)
-2. 🎉 Merged PR [#12](https://github.com/khalby786/jsoning/pull/12) in [khalby786/jsoning](https://github.com/khalby786/jsoning)
-3. 🗣 Commented on [#12](https://github.com/khalby786/jsoning/issues/12) in [khalby786/jsoning](https://github.com/khalby786/jsoning)
-4. 🗣 Commented on [#12](https://github.com/khalby786/jsoning/issues/12) in [khalby786/jsoning](https://github.com/khalby786/jsoning)
-5. 🗣 Commented on [#5727](https://github.com/js-org/js.org/issues/5727) in [js-org/js.org](https://github.com/js-org/js.org)
-<!--END_SECTION:activity-->
-
-and here's a graph for people who like graphs: 
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=khalby786&theme=github)
-
-<h3>my wondeful stats</h3>
-
-```json
-{
-  "joined": "3 years ago",
-  "repos": "48",
-  "repos_contributed_to": "36",
-  "commits": "1425",
-  "stars": "226",
-  "issues": "18",
-  "pull_requests": "119"
-}
-```
-
-<h3>my weekly development breakdown</h3>
-
-<!--START_SECTION:waka-->
-```text
-Vue.js       37 mins         ████████████░░░░░░░░░░░░░   47.86 % 
-JavaScript   26 mins         ████████▒░░░░░░░░░░░░░░░░   33.75 % 
-JSON         11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-HTML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-```
-<!--END_SECTION:waka-->
-
-<br><br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khalby786&column=7&theme=onedark" />
-</div>
+<span><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></span>
+<span><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></span>
+<span><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></span>
+<span><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg"></span>
+<span><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></span>
+<span><img height="20" src="https://academy.hsoub.com/uploads/monthly_2016_01/SiteLogo-346x108.png.dd3bdd5dfa0e4a7099ebc51f8484032e.png" alt="hsoub academy"></span>
