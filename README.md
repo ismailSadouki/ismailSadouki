@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <a href="//github.com/ismailSadouki/"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
 <a href="//twitter.com/sadouki_ismail"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/twitter-alt.svg" width="30px" /></a>
-<a href="//instagram.com/ismail_sadouki"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/instagram.svg" width="30px" /></a>
+<a href="//instagram.com/ismail_sadouki"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" width="30px" /></a>
 <a href="//twitch.tv/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/facebook.svg" width="30px" /></a>
 <a href="mailto:ismai.sadouki@protonmail.com"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" width="30px" /></a>
 
