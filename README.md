@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <a href="//github.com/ismailSadouki/"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/github.png" width="30px" style="width: 30px;margin-right: 10px;" /></a>
 <a href="//twitter.com/sadouki_ismail"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" width="30px" /></a>
 <a href="//instagram.com/ismail_sadouki"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" width="30px" /></a>
-<a href="//instagram.com/ismail_sadouki"><svg xmlns="http://www.w3.org/2000/svg" fill="#1877f2" viewBox="0 0 24 24"><path d="M23.998 12c0-6.628-5.372-12-11.999-12C5.372 0 0 5.372 0 12c0 5.988 4.388 10.952 10.124 11.852v-8.384H7.078v-3.469h3.046V9.356c0-3.008 1.792-4.669 4.532-4.669 1.313 0 2.686.234 2.686.234v2.953H15.83c-1.49 0-1.955.925-1.955 1.874V12h3.328l-.532 3.469h-2.796v8.384c5.736-.9 10.124-5.864 10.124-11.853z"/></svg></a>
+<a href="mailto:ismai.sadouki@protonmail.com"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/facebook.svg" width="30px" /></a>
 <a href="mailto:ismai.sadouki@protonmail.com"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" width="30px" /></a>
 
 <h3>things i code with</h3>
