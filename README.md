@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  - 💡 I like to explore new technologies and develop software solutions and quick hacks.
  - 👯 I'm looking to collaborate on full stack web apps!
- - 🌱 I'm currently learning Algorithms.
+ - 🌱 I'm currently learning VueJS and Algorithms.
  - 🤔 I'm looking for help with VueJs
  - 💬 Ask me about JavaScript/PHP - Laravel
  - 😊 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
