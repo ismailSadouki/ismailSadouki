@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 <span><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/github.png" width="30px"></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/gitlab.png" width="30px"></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png" width="30px"></span>&nbsp;
-
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linux/linux-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vim/vim-original.svg" width="30px"></span>&nbsp;
 
 <h3>things i am learning </h3>
 
