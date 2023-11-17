@@ -64,6 +64,11 @@ Here are some ideas to get you started:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
 
+<h3>things i can't live without </h3>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linux/linux-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vim/vim-original.svg" width="30px"></span>&nbsp;
+
 <h3>Favorite sites</h3>
 
 <span><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></span>
