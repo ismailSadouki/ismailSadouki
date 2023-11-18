@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
  - 💡 I like to explore new technologies and develop software solutions and quick hacks.
  - 👯 I'm looking to collaborate on full stack web apps!
+ - 💬 Ask me about JavaScript/PHP - Laravel/Linux
  - 🌱 I'm currently developing myself in ReactJs and Algorithms.
  - 🤔 I'm looking for help with DSA
- - 💬 Ask me about JavaScript/PHP - Laravel/Linux
  - 😊 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
  - 📫 You can contact me in: [email](mailto:ismai.sadouki@protonmail.com) or [social](#social), I'll try to respond as soon as I can
  - 😄 Pronouns: he/him
