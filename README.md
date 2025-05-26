@@ -84,9 +84,7 @@ the Business Intelligence challenge, helping my team win 1st place in both categ
 
 ## 📈 GitHub Stats & Streaks
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAHAMNIabdelkaderseifelislem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+[![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmailSadouki)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RAHAMNIabdelkaderseifelislem&theme=tokyonight" alt="GitHub Streak" />
