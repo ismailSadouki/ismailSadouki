@@ -7,18 +7,18 @@
 
 ---
 
-## 🧠 AI & Machine Learning
+## 🧠 Data Science & Machine Learning
 
 > The brains behind the applications.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,scikit-learn,opencv,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,scikit-learn,opencv,numpy,pandas" />
 </div>
 
-- Deep Learning (CV, NLP, GANs, Transformers, RAG)
-- AI Agents for business automation & team collaboration
-- Scientific research on DL, model optimization, and knowledge reasoning
-- Model Deployment (FastAPI, Flask + Docker/Nginx)
+- Statistical modeling, inference & predictive analytics
+- Machine Learning with a strong mathematical foundation
+- Building ML algorithms from scratch (Python & Javascript)
+- Model Deployment (FastAPI/Streamlit, Docker/Nginx)
 
 ---
 
