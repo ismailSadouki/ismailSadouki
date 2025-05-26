@@ -12,7 +12,7 @@
 > The brains behind the applications.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,scikit-learn,opencv,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,sklearn, nginx,opencv,numpy,pandas" />
 </div>
 
 - Statistical modeling, inference & predictive analytics
