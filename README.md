@@ -1,9 +1,9 @@
-# 👋 Hi there, I'm AbdElKader Seif El Islem Rahmani!
+# 👋 Hi there, I'm Ismail Sadouki!
 
-🎓 PhD Candidate in Artificial Intelligence | Deep Learning Engineer  
-💼 Full-Stack Developer | AI Researcher
-🌍 Based in Algeria | Merging research and industry with purpose  
-🚀 I solve real-world problems with intelligence (and sometimes caffeine ☕)
+🎓 Data Scientist & Statistician at ENSSEA  (École Nationale Supérieure de Statistique et d'Économie Appliquée)
+💼 Full-Stack Developer | ML & Statistics Enthusiast
+🌍 Based in Algeria | Bridging Math, Code, and Real-World Impact
+🚀 I solve real-world problems with Data (and sometimes caffeine ☕)
 
 ---
 
