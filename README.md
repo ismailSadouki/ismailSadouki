@@ -44,10 +44,10 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,linux,docker,nginx" />
 </div>
-
-- Data processing pipelines & database engineering  
+- Data preprocessing, transformation & statistical analysis pipelines
 - Scalable deployment using Docker & Nginx  
-- Data management with MySQL, PostgreSQL, MongoDB
+- Managing data with SQL & NoSQL tools like MySQL, PostgreSQL
+- Focused on reliable, scalable, and interpretable data workflows
 
 ---
 
