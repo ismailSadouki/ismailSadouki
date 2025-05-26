@@ -107,4 +107,4 @@ the Business Intelligence challenge, helping my team win 1st place in both categ
 ---
 
 > “Think statistically. Learn relentlessly. Build intelligently”  
-> — _ismail_
+> — _ismail sadouki_
