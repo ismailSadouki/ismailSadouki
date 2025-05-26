@@ -27,12 +27,13 @@
 > Turning intelligence into intuitive interfaces.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react,js,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=fastapi,js,python,php,laravel,react,css,tailwind,bootstrap,figma," />
 </div>
 
-- Building smart frontends with React, Tailwind & Bootstrap  
-- RESTful APIs and backend logic with FastAPI & Flask  
-- Integrated AI services into modern web platforms
+- Building interactive data dashboards & tools with Laravel,JavaScript and Python
+- RESTful APIs and backend logic with FastAPI
+- Integrating machine learning models into web platforms with FastAPI/Streamlit
+- Former freelance web developer, now applying dev skills to data science
 
 ---
 
