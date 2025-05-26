@@ -100,9 +100,9 @@ the Business Intelligence challenge, helping my team win 1st place in both categ
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdelkaderseifelislem/)  
-- 📧 [mail](mailto:a.e.k426rahmani@gmail.com)  
-- 🌐 [Personal portfolio](https://rahamniabdelkaderseifelislem.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ismailsadouki/)  
+- 📧 [mail](mailto:ismail.sadouki@protonmail.com)  
+- 🌐 [Personal portfolio](https://ismailsadouki.github.io/portfolio/)
 
 ---
 
