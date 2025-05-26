@@ -42,7 +42,7 @@
 > From messy input to structured intelligence.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,linux,docker,nginx" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,linux,docker,nginx" />
 </div>
 - Data preprocessing, transformation & statistical analysis pipelines
 - Scalable deployment using Docker & Nginx  
@@ -56,12 +56,12 @@
 > Keeping everything organized and efficient.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,java,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=vim,arch,linux,bash,raspberrypi,git,github" />
 </div>
 
 - Git & GitHub for project control and collaboration  
-- Java for backend algorithms & academic work  
-- VS Code + Linux for an optimized developer workflow
+- c++ for algorithms & academic work  
+- NVIM + Arch Linux for an optimized developer workflow
 
 ---
 
