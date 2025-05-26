@@ -1,7 +1,9 @@
 # 👋 Hi there, I'm Ismail Sadouki!
 
 🎓 Data Scientist & Statistician at ENSSEA  (École Nationale Supérieure de Statistique et d'Économie Appliquée)
+
 💼 Full-Stack Developer | ML & Statistics Enthusiast
+
 🌍 Based in Algeria | Bridging Math, Code, and Real-World Impact
 🚀 I solve real-world problems with Data (and sometimes caffeine ☕)
 
