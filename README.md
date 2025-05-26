@@ -1,79 +1,109 @@
+# 👋 Hi there, I'm AbdElKader Seif El Islem Rahmani!
 
-<!--
-### Hi there 👋
+🎓 PhD Candidate in Artificial Intelligence | Deep Learning Engineer  
+💼 Full-Stack Developer | AI Researcher
+🌍 Based in Algeria | Merging research and industry with purpose  
+🚀 I solve real-world problems with intelligence (and sometimes caffeine ☕)
 
-**ismailSadouki/ismailSadouki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 AI & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: s
-- ⚡ Fun fact: ...
+> The brains behind the applications.
 
--->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,scikit-learn,opencv,numpy,pandas" />
+</div>
 
-<h1>Hey there! I'm Ismail :wave:</h1>
+- Deep Learning (CV, NLP, GANs, Transformers, RAG)
+- AI Agents for business automation & team collaboration
+- Scientific research on DL, model optimization, and knowledge reasoning
+- Model Deployment (FastAPI, Flask + Docker/Nginx)
 
- - 💡 I like to explore new technologies and develop software solutions and quick hacks.
- - 👯 I'm looking to collaborate on full stack web apps!
- - 💬 Ask me about JavaScript/PHP - Laravel/Linux
- - 🌱 I'm currently developing myself in ReactJs and Algorithms.
- - 🤔 I'm looking for help with DSA
- - 😊 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
- - 📫 You can contact me in: [email](mailto:ismai.sadouki@protonmail.com) or [social](#social), I'll try to respond as soon as I can
- - 😄 Pronouns: he/him
- <!--
- - ⚡ Fun fact: I have a [tumblr blog](https://art.khaleelgibran.com) filled with my artwork!
--->
+---
 
-<h3 id="social">contact me</h3>
+## 🌐 Web Development
 
-<a href="//github.com/ismailSadouki/"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/github.png" width="30px" style="width: 30px;margin-right: 10px;" /></a>
-<a href="//twitter.com/sadouki_ismail"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" width="30px" /></a>
-<a href="//instagram.com/ismail_sadouki"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" width="30px" /></a>
-<a href="//www.facebook.com/profile.php?id=100034663145146"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/facebook.svg" width="30px" /></a>
-<a href="mailto:ismai.sadouki@protonmail.com"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" width="30px" /></a>
+> Turning intelligence into intuitive interfaces.
 
-<h3>things i code with</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react,js,html,css,tailwind,bootstrap" />
+</div>
 
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/composer.png" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/github.png" width="30px"></span>&nbsp;
-<span><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/gitlab.png" width="30px"></span>&nbsp;
-<span><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png" width="30px"></span>&nbsp;
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linux/linux-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vim/vim-original.svg" width="30px"></span>&nbsp;
+- Building smart frontends with React, Tailwind & Bootstrap  
+- RESTful APIs and backend logic with FastAPI & Flask  
+- Integrated AI services into modern web platforms
 
-<h3>things i am learning </h3>
+---
 
-<br>
+## 🗃️ Data & DevOps
 
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
+> From messy input to structured intelligence.
 
-<h3>things i can't live without </h3>
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linux/linux-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vim/vim-original.svg" width="30px"></span>&nbsp;
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,linux,docker,nginx" />
+</div>
 
-<h3>Favorite sites</h3>
+- Data processing pipelines & database engineering  
+- Scalable deployment using Docker & Nginx  
+- Data management with MySQL, PostgreSQL, MongoDB
 
-<span><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></span>
-<span><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></span>
-<span><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></span>
-<span><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg"></span>
-<span><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></span>
-<span><img height="20" src="https://academy.hsoub.com/uploads/monthly_2016_01/SiteLogo-346x108.png.dd3bdd5dfa0e4a7099ebc51f8484032e.png" alt="hsoub academy"></span>
+---
+
+## 🛠️ Tools & Other Skills
+
+> Keeping everything organized and efficient.
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,java,linux,vscode" />
+</div>
+
+- Git & GitHub for project control and collaboration  
+- Java for backend algorithms & academic work  
+- VS Code + Linux for an optimized developer workflow
+
+---
+
+## 🎯 Current Focus
+
+- 🧠 Pursuing a **PhD in Artificial Intelligence**  
+- 📊 Bridging academic research and scalable AI products  
+- 🔬 Exploring reasoning, decision-making, and generative AI  
+- 🧩 Building platforms that integrate ML, NLP, and IoT systems
+
+---
+
+## 🏆 Highlights & Achievements
+
+- 🥈 Hackathon Winner: AgriTechly, AgriChat (LLMs + MoE + RAG), Plant Disease Detection  
+- 🧠 Researcher: Published academic work in Deep Learning & Computer Vision  
+- 🤖 Creator: Business Plan Agent using NLP + Task Automation + Chatbot UI
+
+---
+
+## 📈 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAHAMNIabdelkaderseifelislem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RAHAMNIabdelkaderseifelislem&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHAMNIabdelkaderseifelislem&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdelkaderseifelislem/)  
+- 📧 [mail](mailto:a.e.k426rahmani@gmail.com)  
+- 🌐 [Personal portfolio](https://rahamniabdelkaderseifelislem.github.io)
+
+---
+
+> “Code with purpose. Learn with fire. Build with passion.”  
+> — _Abd El Kader Seif El Islem Rahmani_
