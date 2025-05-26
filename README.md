@@ -106,5 +106,5 @@ the Business Intelligence challenge, helping my team win 1st place in both categ
 
 ---
 
-> “Code with purpose. Learn with fire. Build with passion.”  
-> — _Abd El Kader Seif El Islem Rahmani_
+> “Think statistically. Learn relentlessly. Build intelligently”  
+> — _ismail_
