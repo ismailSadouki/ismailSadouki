@@ -67,18 +67,18 @@
 
 ## 🎯 Current Focus
 
-- 🧠 Pursuing a **PhD in Artificial Intelligence**  
-- 📊 Bridging academic research and scalable AI products  
-- 🔬 Exploring reasoning, decision-making, and generative AI  
+- 🧠 Data Scientist & Statistician at ENSSEA  
+- 📊 actively seeking new opportunities in academic research  
+- 🔬 Exploring machine learning, statistical inference, and deep learning models 
 - 🧩 Building platforms that integrate ML, NLP, and IoT systems
 
 ---
 
 ## 🏆 Highlights & Achievements
 
-- 🥈 Hackathon Winner: AgriTechly, AgriChat (LLMs + MoE + RAG), Plant Disease Detection  
-- 🧠 Researcher: Published academic work in Deep Learning & Computer Vision  
-- 🤖 Creator: Business Plan Agent using NLP + Task Automation + Chatbot UI
+- 🥇🤖 1st Place – Open Data Hackathon 
+    Led the Machine Learning challenge, building a time series model that secured 1st place. Also contributed to
+the Business Intelligence challenge, helping my team win 1st place in both categories.
 
 ---
 
