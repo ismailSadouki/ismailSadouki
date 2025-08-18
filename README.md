@@ -4,6 +4,7 @@
 💼 Full-Stack Developer | ML & Statistics Enthusiast  
 🌍 Based in Algeria | Bridging Math, Code, and Real-World Impact  
 🚀 I solve real-world problems with Data (and sometimes caffeine ☕)  
+<img src="https://komarev.com/ghpvc/?username=ismailSadouki&style=flat&color=blue" width="1" height="1" />
 
 ---
 
