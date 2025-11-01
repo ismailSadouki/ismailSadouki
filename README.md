@@ -1,9 +1,8 @@
 # 👋 Hi there, I'm Ismail Sadouki!
 
 🎓 Data Scientist & Statistician at ENSSEA  (École Nationale Supérieure de Statistique et d'Économie Appliquée)  
-💼 Full-Stack Developer | ML & Statistics Enthusiast  
-🌍 Based in Algeria | Bridging Math, Code, and Real-World Impact  
-🚀 I solve real-world problems with Data (and sometimes caffeine ☕)  
+💼 NLP & LLM focused | Applied Machine Learning and Full-Stack Developer 
+🌍 Based in Algeria | Bridging Math, Code, and Real-World Impact    
 <img src="https://komarev.com/ghpvc/?username=ismailSadouki&style=flat&color=blue" width="1" height="1" />
 
 ---
@@ -68,10 +67,11 @@
 
 ## 🎯 Current Focus
 
-- 🧠 Data Scientist & Statistician at ENSSEA  
-- 📊 actively seeking new opportunities in academic research  
-- 🔬 Exploring machine learning, statistical inference, and deep learning models 
-- 🧩 Building platforms that integrate ML, NLP, and IoT systems
+- 🧠 Data Scientist & Statistician at ENSSEA
+- 🧩 Exploring Natural Language Processing (NLP) and Large Language Models (LLMs)  
+- 📊 actively seeking new opportunities in academic research
+
+
 
 ---
 
