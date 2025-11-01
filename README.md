@@ -7,18 +7,19 @@
 
 ---
 
-## 🧠 Data Science & Machine Learning
+## 🧠 Data Science, Machine Learning and NLP/LLM
 
 > The brains behind the applications.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,opencv,docker,sklearn,nginx" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,sklearn,nginx" />
 </div>
 
 - Statistical modeling, inference & predictive analytics
 - Machine Learning with a strong mathematical foundation
-- Building ML algorithms from scratch (Python & Javascript)
-- Model Deployment (FastAPI/Streamlit, Docker/Nginx)
+- Fine-tuning and evaluating Large Language Models (LLMs)
+- Implementing NLP pipelines — tokenization, embeddings, attention, and generation  
+- Model Deployment (Streamlit, Docker/Nginx)
 
 ---
 
