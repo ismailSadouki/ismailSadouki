@@ -45,6 +45,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,linux,docker,nginx" />
 </div>
+
+
 - Data preprocessing, transformation & statistical analysis pipelines  
 - Scalable deployment using Docker & Nginx  
 - Managing data with SQL & NoSQL tools like MySQL, PostgreSQL  
