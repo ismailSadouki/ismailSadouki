@@ -17,7 +17,7 @@
 - Fine-tuning and evaluating Large Language Models (LLMs)  
 - Statistical modeling, inference & predictive analytics  
 - Machine Learning with a strong mathematical foundation  
-- Implementing NLP pipelines — tokenization, embeddings, attention, and generation  
+- Implementing NLP pipelines — tokenization, embeddings, attention, and generation    
 - Model Deployment (Streamlit, Docker/Nginx)
 
 ---
