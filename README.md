@@ -14,6 +14,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,sklearn,nginx" />
 </div>
+
 - Fine-tuning and evaluating Large Language Models (LLMs)  
 - Statistical modeling, inference & predictive analytics  
 - Machine Learning with a strong mathematical foundation  
