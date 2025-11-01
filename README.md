@@ -12,7 +12,7 @@
 > The brains behind the applications.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,sklearn,nginx" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,sklearn,nginx,r" />
 </div>
 
 - Fine-tuning and evaluating Large Language Models (LLMs)  
