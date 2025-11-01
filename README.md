@@ -115,5 +115,5 @@ the Business Intelligence challenge, helping my team win 1st place in both categ
 
 ---
 
-> “Think statistically. Learn relentlessly. Build intelligently”  
+> “Think statistically. Learn linguistically. Build intelligently.”   
 > — _ismail sadouki_
