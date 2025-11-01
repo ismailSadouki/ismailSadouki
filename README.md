@@ -81,6 +81,9 @@
     Led the Machine Learning challenge, building a time series model that secured 1st place. Also contributed to
 the Business Intelligence challenge, helping my team win 1st place in both categories.
 
+- Natural Language Processing Specialization – Stanford
+- Deep Learning specialization - Stanford
+- Google Advanced Data Analytics – Coursera  
 ---
 
 ## 📈 GitHub Stats & Streaks
