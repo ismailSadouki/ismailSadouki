@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ismail Sadouki!
 
 🎓 Data Scientist & Statistician at ENSSEA  (École Nationale Supérieure de Statistique et d'Économie Appliquée)  
-💼 NLP & LLM Research Focus | Applied Machine Learning & Full-Stack Development   
+💼 NLP & LLM Focus | Applied Machine Learning & Full-Stack Development   
 🌍 Based in Algeria | Bridging Math, Code, and Real-World Impact    
 <img src="https://komarev.com/ghpvc/?username=ismailSadouki&style=flat&color=blue" width="1" height="1" />
 
@@ -32,7 +32,7 @@
 </div>
 
 - Building interactive data dashboards & tools with Laravel,JavaScript and Python
-- RESTful APIs and backend logic with FastAPI
+- RESTful APIs and backend logic.
 - Integrating machine learning models into web platforms with FastAPI/Streamlit
 - Former freelance web developer, now applying dev skills to data science
 
