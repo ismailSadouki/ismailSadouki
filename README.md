@@ -28,7 +28,7 @@
 > Turning intelligence into intuitive interfaces.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,js,python,php,laravel,react,css,tailwind,bootstrap,figma," />
+  <img src="https://skillicons.dev/icons?i=js,python,php,laravel,react,css,tailwind,bootstrap,figma," />
 </div>
 
 - Building interactive data dashboards & tools with Laravel,JavaScript and Python
