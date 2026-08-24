@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Ismail Sadouki!
 
 🎓 Data Scientist & Statistician at ENSSEA  (École Nationale Supérieure de Statistique et d'Économie Appliquée)  
-💼 Machine Learning & LLMs | AI Research & Engineering
-💻 Former Full-Stack Developer 
+💼 Machine Learning & LLMs | AI Research & Engineering  
+💻 Former Full-Stack Developer  
 🌍 Based in Algeria | Bridging Math, Code, and Real-World Impact    
 <img src="https://komarev.com/ghpvc/?username=ismailSadouki&style=flat&color=blue" width="1" height="1" />
 
