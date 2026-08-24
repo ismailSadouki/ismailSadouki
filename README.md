@@ -3,7 +3,7 @@
 🎓 Data Scientist & Statistician at ENSSEA  (École Nationale Supérieure de Statistique et d'Économie Appliquée)  
 💼 Machine Learning & LLMs | AI Research & Engineering  
 💻 Former Full-Stack Developer  
-🌍 Based in Algeria | Bridging Math, Code, and Real-World Impact    
+🌍 Algeria | Mathematics × Machine Learning × AI Systems  
 <img src="https://komarev.com/ghpvc/?username=ismailSadouki&style=flat&color=blue" width="1" height="1" />
 
 ---
