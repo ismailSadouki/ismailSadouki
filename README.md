@@ -34,7 +34,7 @@
 
 - Building interactive data dashboards & tools with Laravel,JavaScript and Python
 - RESTful APIs and backend logic.
-- Integrating machine learning models into web platforms with Streamlit
+- Integrating machine learning models into web platforms with Streamlit and FastAPI
 - Former freelance web developer, now applying dev skills to data science
 
 ---
