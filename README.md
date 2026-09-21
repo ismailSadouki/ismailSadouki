@@ -8,8 +8,6 @@
 
 ---
 
----
-
 ## 🧠 Data Science, Machine Learning and NLP/LLM
 
 > The brains behind the applications.
