@@ -94,19 +94,19 @@ the Business Intelligence challenge, helping my team win 1st place in both categ
 ---
 
 ## 📈 GitHub Stats & Streaks
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ismailSadouki&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
+-->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ismailSadouki&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailSadouki&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
+-->
 ---
 
 ## 📬 Let's Connect
